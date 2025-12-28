@@ -1,0 +1,3 @@
+Classify the sensitivity of the provided sentence. Choose exactly one class from the following list: Polite, Informal, Derogatory, Taboo. Provide your classification as a single word only (without any additional text).
+
+Sentence for Classification: '{sentence}'
