@@ -1,0 +1,20 @@
+# API Interactions and Networking
+requests>=2.31.0
+tenacity>=8.2.3
+
+# Data Processing and Excel Support
+pandas>=2.0.0
+openpyxl>=3.1.2
+
+# Progress Bars and UI
+tqdm>=4.66.0
+
+# Database Connectivity
+psycopg2-binary>=2.9.9
+
+# LLM and AI APIs
+openai>=1.0.0
+
+# Local LLM Inference (GGUF Support)
+# Note: Requires a C++ compiler for installation
+llama-cpp-python>=0.2.11
